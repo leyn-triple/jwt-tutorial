@@ -44,13 +44,13 @@
       - JWT 관련 코드 개발
       - Security  설정 추가
       
-- [ ] 4. DTO, Repository, 로그인
+- [x] 4. DTO, Repository, 로그인
 
       - 외부와의 통신에 사용할 DTO 클래스 생성
       - Repository 관련 코드 생성
       - 로그인 API, 관련 로직 생성
       
-- [ ] 5. 회원가입, 권한검증
+- [x] 5. 회원가입, 권한검증
 
       - 회원가입 API 생성
       - 권한 검증 확인
