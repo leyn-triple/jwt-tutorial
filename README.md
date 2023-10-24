@@ -1,6 +1,6 @@
 # jwt-tutorial
-
-[![인프런](https://cdn.inflearn.com/public/courses/326392/cover/b788d3b3-2861-452e-bd67-e47c3d16abdc)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-jwt)
+- [Inflearn] Spring Boot JWT Tutorial
+- 학습기간 : 23.10.24 ~ 23.10.25
 
 ***
 #### 💡 Environment
